@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 8c88190b3c865684ba4ca95fb54f2476
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2913885024201929568
+    second: casas novas-Photoroom_0
+  - first:
+      213: 8325183004720196570
+    second: casas novas-Photoroom_1
+  - first:
+      213: 7656386206376918510
+    second: casas novas-Photoroom_2
+  - first:
+      213: -5372360310309790195
+    second: casas novas-Photoroom_3
+  - first:
+      213: 35201593647385945
+    second: casas novas-Photoroom_4
+  - first:
+      213: 8638830107451483593
+    second: casas novas-Photoroom_5
+  - first:
+      213: -4142375111032151734
+    second: casas novas-Photoroom_6
+  - first:
+      213: -1525029151087644689
+    second: casas novas-Photoroom_7
+  - first:
+      213: 3972657165248966983
+    second: casas novas-Photoroom_8
+  - first:
+      213: -1558773074652670585
+    second: casas novas-Photoroom_9
+  - first:
+      213: 1361056963117373946
+    second: casas novas-Photoroom_10
+  - first:
+      213: -1577322894609388469
+    second: casas novas-Photoroom_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: casas novas-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 518
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac0d18420dcf87d0800000000000000
+      internalID: -2913885024201929568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 866
+        width: 380
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb677685ddf88370800000000000000
+      internalID: 8325183004720196570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 868
+        width: 396
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedfb4e70b2f04a60800000000000000
+      internalID: 7656386206376918510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 880
+        width: 477
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed39203ca8175b0800000000000000
+      internalID: -5372360310309790195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 431
+        width: 414
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d41e4b9af0d7000800000000000000
+      internalID: 35201593647385945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 455
+        width: 398
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c56895563a43e770800000000000000
+      internalID: 8638830107451483593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 442
+        width: 398
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a416284a8c35386c0800000000000000
+      internalID: -4142375111032151734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 466
+        width: 410
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef2e49211206dae0800000000000000
+      internalID: -1525029151087644689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 496
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741331dc4a6b12730800000000000000
+      internalID: 3972657165248966983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 41
+        width: 409
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78552e7b5202e5ae0800000000000000
+      internalID: -1558773074652670585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 39
+        width: 396
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9dea5c81273e210800000000000000
+      internalID: 1361056963117373946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casas novas-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 513
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c67b23f293c1ae0800000000000000
+      internalID: -1577322894609388469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      casas novas-Photoroom_0: -2913885024201929568
+      casas novas-Photoroom_1: 8325183004720196570
+      casas novas-Photoroom_10: 1361056963117373946
+      casas novas-Photoroom_11: -1577322894609388469
+      casas novas-Photoroom_2: 7656386206376918510
+      casas novas-Photoroom_3: -5372360310309790195
+      casas novas-Photoroom_4: 35201593647385945
+      casas novas-Photoroom_5: 8638830107451483593
+      casas novas-Photoroom_6: -4142375111032151734
+      casas novas-Photoroom_7: -1525029151087644689
+      casas novas-Photoroom_8: 3972657165248966983
+      casas novas-Photoroom_9: -1558773074652670585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
